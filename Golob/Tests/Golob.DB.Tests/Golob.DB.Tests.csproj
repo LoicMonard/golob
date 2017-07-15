@@ -6,6 +6,6 @@
     <PackageReference Include="CK.DB.Actor.Tests" Version="1.0.0-d23"></PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Gobol.DB\Gobol.DB.csproj" />
+    <ProjectReference Include="..\..\Golob.DB\Golob.DB.csproj" />
   </ItemGroup>
 </Project>

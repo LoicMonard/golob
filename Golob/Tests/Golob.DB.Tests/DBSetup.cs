@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gobol.DB.Tests
+namespace Golob.DB.Tests
 {
     [TestFixture]
     class DBSetup : CK.DB.Tests.DBSetup
